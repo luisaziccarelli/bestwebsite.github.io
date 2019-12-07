@@ -5,6 +5,10 @@
   align-items: center;
 }
 
+nav {
+  list-styles: none;
+}
+
 .centered-heading {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
