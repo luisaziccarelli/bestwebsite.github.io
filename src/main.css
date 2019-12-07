@@ -5,8 +5,12 @@
   align-items: center;
 }
 
-nav {
-  list-styles: none;
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+nav ul li {
+  list-style: none;
 }
 
 .centered-heading {
